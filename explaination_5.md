@@ -6,7 +6,7 @@ TrieNode:
 <br><br>
 Insert a character: Time complexity - O(1) Space complexity - O(1)
 <br><br>
-suffixes of a node: Time complexity: O(m^n) Space complexity: O(m^n) where m is maximum number of elements one level can have & n is the number of levels.
+suffixes of a node: Time complexity: O(m*n) Space complexity: O(m*n) where m is maximum number of elements one level can have & n is the number of levels.
 <br><br>
 Trie:<br>
 <br>

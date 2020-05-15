@@ -1,3 +1,2 @@
-I took the square root of the number and took its int() as I am supposed to find the floored square root.
-<br><br>
-Time Complexity: O(1) Space Complexity: O(1)
+Binary search algorithm to find the square root of the number. If the square is between the mid & mid + 1, then mid is returned as I am supposed to find the floored square root<br><br>
+Time Complexity: O(n) Space Complexity: O(1)
